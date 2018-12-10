@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(75, 72, 72);
+  }
+
+p, h1, #special, h4, h3{
+    font-family: monospace;
+}
+
+
+p#dashed {
+    border-style: dashed;
+    border-color: black;
+    border-width: 5px;
+}
+p#dashed2 {
+    border-style: dashed;
+    border-color: black;
+    border-width: 5px;
+}
+p#dashed3 {
+    border-style: dashed;
+    border-width: black;
+    border-width: 5px;
+}
